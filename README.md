@@ -1,4 +1,10 @@
 # The Great Suspender
+## Last clean version before handover.
+
+>TheMageKing commented on 3 Nov 2020 • wrote:
+The code in the Github repository is currently safe, and the most recent tagged release happened before the transfer of ownership. To use that version, and avoid needing to finagle URL's, enable Chrome developer mode, download and extract a copy of the code, then navigate to your extensions menu and select 'Load Unpacked Extension'.
+More on the topic:
+https://github.com/greatsuspender/thegreatsuspender/issues/1263
 
 <img src="/src/img/suspendy-guy.png" width="100px" />
 
